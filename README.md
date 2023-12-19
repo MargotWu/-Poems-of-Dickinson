@@ -18,6 +18,6 @@ Five Poems of Dickinson
 6.	I use Spacy to finish my annotation.
 
 
-7.     All the files in the corpus are in txt format.
+7. All the files in the corpus are in txt format.
 
 
