@@ -1,5 +1,8 @@
 Five Poems of Dickinson
 
+Since Emily Dickinson has been dead for over 70 years (1886), her writings are freely available to the general public, so there are no copyright issues involved in this corpus.
+
+
 1.	This corpus is some of Dickinson's poems.
    
 
